@@ -6,18 +6,16 @@
         "id_section": "8.1",
         "name_section": "Planificación y control operacional",
         "areas_for_improvement": [
-          "Se recomienda documentar con mayor detalle la revisión anual de los procesos para evidenciar su eficacia.",
-          "Sería beneficioso incluir métricas específicas para evaluar la efectividad de los controles implementados.",
-          "Se debe asegurar que la planificación de recursos incluya una evaluación formal de suficiencia y disponibilidad."
+          "Mejorar la documentación de evidencias para algunos controles de procesos externalizados para asegurar trazabilidad completa."
         ],
         "fulfilled_aspects": [
           "Se han determinado y mapeado los procesos necesarios para cumplir los requisitos del sistema de gestión de calidad.",
-          "Se han establecido criterios claros para los procesos y la aceptación de productos y servicios.",
-          "Se han identificado y asignado los recursos necesarios para lograr la conformidad.",
-          "Se implementan controles operacionales conforme a los criterios establecidos mediante procedimientos documentados.",
-          "Se mantiene información documentada para evidenciar la ejecución de los procesos.",
-          "Se controlan los cambios planificados y se revisan los imprevistos con evaluación de impacto y aprobación.",
-          "Se aseguran controles adecuados sobre procesos externalizados mediante cláusulas contractuales y auditorías a proveedores críticos."
+          "Se han establecido criterios claros para los procesos y aceptación de productos y servicios.",
+          "Se han determinado y asignado los recursos necesarios para lograr la conformidad.",
+          "Se implementan controles conforme a los criterios establecidos mediante procedimientos documentados.",
+          "Se mantiene información documentada para evidenciar los procesos y su trazabilidad.",
+          "Se controlan adecuadamente los cambios planificados y se revisan los imprevistos con evaluación de impacto.",
+          "Se aseguran controles sobre procesos externalizados mediante cláusulas contractuales y auditorías a proveedores críticos."
         ],
         "questions_of_the_section": [
           {
@@ -74,19 +72,17 @@
         "id_section": "8.2",
         "name_section": "Requisitos para los productos y servicios",
         "areas_for_improvement": [
-          "Es necesario implementar un análisis formal de capacidad para asegurar que se puede cumplir con los requisitos definidos.",
-          "Se recomienda fortalecer la documentación del proceso de determinación de requisitos para evidenciar la evaluación de capacidad.",
-          "Mantener actualizadas las listas normativas y legales para asegurar el cumplimiento continuo."
+          "Implementar un análisis formal de capacidad para garantizar la capacidad de cumplir con los requisitos definidos."
         ],
         "fulfilled_aspects": [
-          "La organización mantiene canales de comunicación eficaces con el cliente incluyendo correos, CRM y encuestas.",
-          "Se comunican adecuadamente los requisitos, consultas, contratos y cambios con los clientes mediante procedimientos documentados.",
-          "Se gestionan opiniones, reclamaciones y propiedad del cliente con un sistema de gestión de quejas y seguimiento.",
-          "Se establecen acciones de contingencia específicas para clientes críticos en el plan de continuidad.",
-          "Se determinan los requisitos del cliente antes de aceptar pedidos mediante un proceso formal de verificación.",
-          "Se identifican y revisan requisitos legales, reglamentarios y contractuales aplicables.",
-          "Se revisan los requisitos antes de comprometerse con el cliente mediante revisiones técnicas y comerciales.",
-          "Se resuelven diferencias entre requisitos y pedidos antes de aceptar, documentando y validando dichas diferencias."
+          "Se mantienen canales de comunicación eficaces con los clientes mediante diversos medios.",
+          "Se comunican adecuadamente los requisitos, consultas, contratos y cambios con los clientes.",
+          "Se consideran y gestionan las opiniones, reclamaciones y propiedad del cliente.",
+          "Existen disposiciones para acciones de contingencia cuando aplica.",
+          "Se determinan los requisitos del cliente antes de aceptar pedidos mediante un proceso formal.",
+          "Se identifican los requisitos legales, reglamentarios y contractuales aplicables.",
+          "Se revisan los requisitos antes de comprometerse con el cliente.",
+          "Se resuelven diferencias entre requisitos y pedidos antes de aceptar el contrato."
         ],
         "questions_of_the_section": [
           {
@@ -141,10 +137,10 @@
             "name_subsection": "Comunicación con el cliente",
             "areas_for_improvement": [],
             "fulfilled_aspects": [
-              "Se mantienen canales de comunicación eficaces con el cliente.",
-              "Se comunican requisitos, consultas, contratos y cambios con los clientes.",
-              "Se consideran opiniones, reclamaciones y propiedad del cliente.",
-              "Existen disposiciones para acciones de contingencia cuando aplica."
+              "Canales de comunicación eficaces con clientes establecidos.",
+              "Gestión adecuada de requisitos, consultas, contratos y cambios con clientes.",
+              "Consideración y gestión de opiniones, reclamaciones y propiedad del cliente.",
+              "Disposiciones para acciones de contingencia definidas para clientes críticos."
             ],
             "questions_of_the_subsection": [
               {
@@ -180,11 +176,10 @@
             "id_subsection": "8.2.2",
             "name_subsection": "Determinación de los requisitos",
             "areas_for_improvement": [
-              "Implementar análisis formal de capacidad para asegurar cumplimiento de requisitos.",
-              "Fortalecer documentación del proceso de determinación de requisitos para evidenciar evaluación de capacidad."
+              "Falta análisis formal de capacidad para asegurar cumplimiento de requisitos."
             ],
             "fulfilled_aspects": [
-              "Se determinan los requisitos del cliente antes de aceptar pedidos mediante proceso formal.",
+              "Se determinan los requisitos del cliente antes de aceptar pedidos.",
               "Se identifican requisitos legales, reglamentarios y contractuales aplicables."
             ],
             "questions_of_the_subsection": [
@@ -217,8 +212,8 @@
             "name_subsection": "Revisión de los requisitos",
             "areas_for_improvement": [],
             "fulfilled_aspects": [
-              "Se revisan los requisitos antes de comprometerse con el cliente mediante revisiones técnicas y comerciales.",
-              "Se resuelven diferencias entre requisitos y pedidos antes de aceptar, documentando y validando dichas diferencias."
+              "Se revisan los requisitos antes de comprometerse con el cliente.",
+              "Se resuelven diferencias entre requisitos y pedidos antes de aceptar el contrato."
             ],
             "questions_of_the_subsection": [
               {
@@ -253,12 +248,11 @@
         "id_section": "8.3",
         "name_section": "Diseño y desarrollo de los productos y servicios",
         "areas_for_improvement": [
-          "Se recomienda ampliar la planificación del diseño y desarrollo para incluir actividades de verificación y validación.",
-          "Es importante documentar la necesidad de participación de clientes y usuarios en el proceso de diseño y desarrollo."
+          "Ampliar la planificación del diseño para incluir actividades de verificación y validación documentadas."
         ],
         "fulfilled_aspects": [
-          "La organización tiene un proceso documentado de diseño y desarrollo que se revisa anualmente.",
-          "Se planifican adecuadamente las etapas del diseño con hitos, responsables y entregables definidos."
+          "Existe un proceso documentado de diseño y desarrollo que se revisa anualmente.",
+          "Se planifican adecuadamente las etapas del diseño con definición de hitos, responsables y entregables."
         ],
         "questions_of_the_section": [],
         "subsections": [
@@ -267,7 +261,7 @@
             "name_subsection": "Generalidades",
             "areas_for_improvement": [],
             "fulfilled_aspects": [
-              "La organización tiene un proceso documentado de diseño y desarrollo que se revisa anualmente."
+              "Proceso documentado de diseño y desarrollo establecido y revisado periódicamente."
             ],
             "questions_of_the_subsection": [
               {
@@ -288,11 +282,10 @@
             "id_subsection": "8.3.2",
             "name_subsection": "Planificación del diseño y desarrollo",
             "areas_for_improvement": [
-              "Incluir en la planificación del diseño y desarrollo las actividades de verificación y validación.",
-              "Documentar la necesidad de participación de clientes y usuarios en el proceso."
+              "Incluir en la planificación actividades específicas de verificación y validación del diseño."
             ],
             "fulfilled_aspects": [
-              "Se planifican adecuadamente las etapas del diseño con hitos, responsables y entregables definidos."
+              "Planificación adecuada de etapas, hitos, responsables y entregables del diseño."
             ],
             "questions_of_the_subsection": [
               {
@@ -321,11 +314,9 @@
       {
         "id_section": "8.4",
         "name_section": "Control de los procesos, productos y servicios suministrados externamente",
-        "areas_for_improvement": [
-          "Se recomienda documentar con mayor detalle los criterios y resultados de la evaluación periódica de proveedores."
-        ],
+        "areas_for_improvement": [],
         "fulfilled_aspects": [
-          "Se controlan adecuadamente los productos o servicios proporcionados por proveedores mediante evaluaciones periódicas."
+          "Se controla adecuadamente a los proveedores mediante evaluaciones periódicas."
         ],
         "questions_of_the_section": [
           {
@@ -346,13 +337,10 @@
       {
         "id_section": "8.5",
         "name_section": "Producción y provisión del servicio",
-        "areas_for_improvement": [
-          "Se recomienda implementar registros detallados para evidenciar el control de producción y trazabilidad.",
-          "Fortalecer la integración del sistema ERP para asegurar la trazabilidad completa del producto."
-        ],
+        "areas_for_improvement": [],
         "fulfilled_aspects": [
-          "Se controla la producción conforme a los requisitos establecidos mediante procedimientos estandarizados.",
-          "Se identifica el estado del producto durante el proceso a través del sistema ERP."
+          "La producción se controla conforme a los requisitos establecidos mediante procedimientos estandarizados.",
+          "Se identifica el estado del producto durante el proceso mediante sistema ERP."
         ],
         "questions_of_the_section": [],
         "subsections": [
@@ -361,7 +349,7 @@
             "name_subsection": "Control de la producción y provisión",
             "areas_for_improvement": [],
             "fulfilled_aspects": [
-              "Se controla la producción conforme a los requisitos establecidos mediante procedimientos estandarizados."
+              "Control de producción conforme a requisitos mediante procedimientos estandarizados."
             ],
             "questions_of_the_subsection": [
               {
@@ -381,11 +369,9 @@
           {
             "id_subsection": "8.5.2",
             "name_subsection": "Identificación y trazabilidad",
-            "areas_for_improvement": [
-              "Fortalecer la integración del sistema ERP para asegurar la trazabilidad completa del producto."
-            ],
+            "areas_for_improvement": [],
             "fulfilled_aspects": [
-              "Se identifica el estado del producto durante el proceso a través del sistema ERP."
+              "Identificación del estado del producto durante el proceso asegurada mediante ERP."
             ],
             "questions_of_the_subsection": [
               {
@@ -415,7 +401,7 @@
         "id_section": "8.6",
         "name_section": "Liberación de los productos y servicios",
         "areas_for_improvement": [
-          "Es imprescindible implementar una revisión de calidad previa a la entrega para asegurar la conformidad del producto."
+          "Implementar una revisión de calidad previa a la entrega para asegurar conformidad de productos."
         ],
         "fulfilled_aspects": [],
         "questions_of_the_section": [
